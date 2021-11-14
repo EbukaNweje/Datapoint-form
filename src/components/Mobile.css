@@ -1,0 +1,74 @@
+@media screen and (max-width: 375px) {
+    .FormContainer{
+        width: 280px;
+        margin-top: 5px;
+    }
+
+    .Logo{
+        width: 280px;
+        margin-bottom: -3px;
+        margin-top: 50px;
+    }
+
+    .Logo img{
+        width: 250px;
+        height: 50px;
+    }
+
+    /* h5{
+        margin-bottom: px;
+    } */
+
+    .InputForm input{
+        margin-left: 10px;
+        height: 30px;
+        width: 220px;
+        outline: none;
+        font-size: 15px;
+    }
+    .InputForm select{
+        margin-left: 10px;
+        height: 30px;
+        width: 230px;
+        outline: none;
+        font-size: 15px;
+    }
+
+}
+@media screen and (max-width: 320px) {
+    .FormContainer{
+        width: 280px;
+        margin-top: 5px;
+    }
+
+    .Logo{
+        width: 280px;
+        margin-bottom: -3px;
+        margin-top: 220px;
+    }
+
+    .Logo img{
+        width: 250px;
+        height: 50px;
+    }
+
+    h5{
+        margin-bottom: px;
+    }
+
+    .InputForm input{
+        margin-left: 10px;
+        height: 30px;
+        width: 220px;
+        outline: none;
+        font-size: 15px;
+    }
+    .InputForm select{
+        margin-left: 10px;
+        height: 30px;
+        width: 230px;
+        outline: none;
+        font-size: 15px;
+    }
+
+}
